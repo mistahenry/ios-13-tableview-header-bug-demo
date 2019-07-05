@@ -286,7 +286,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5MZ92HXUQ2;
+				DEVELOPMENT_TEAM = PJ4V8VZRGP;
 				INFOPLIST_FILE = "ios-13-tableview-header-bug-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -303,7 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5MZ92HXUQ2;
+				DEVELOPMENT_TEAM = PJ4V8VZRGP;
 				INFOPLIST_FILE = "ios-13-tableview-header-bug-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
